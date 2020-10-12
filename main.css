@@ -251,10 +251,18 @@ h2 {
   color: #44bd32;
 }
 
+.income .item__delete--btn i:hover {
+  color: #ff5049;
+}
+
 .expenses .item__value,
 .expenses .item__percentage,
 .expenses .item__delete--btn {
   color: #ff5049;
+}
+
+.expenses .item__delete--btn i:hover {
+  color: #44bd32;
 }
 
 .item__delete {
